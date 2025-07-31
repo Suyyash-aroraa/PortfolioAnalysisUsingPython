@@ -13,8 +13,7 @@
 
 ### *"Transform your investment tracking from chaos to clarity"*
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/portfolio-manager?style=social)](https://github.com/yourusername/portfolio-manager)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourusername?style=social)](https://twitter.com/yourusername)
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/portfolio-manager?style=social)](https://github.com/Suyyash-aroraa/PortfolioAnalysisUsingPython)
 
 </div>
 
