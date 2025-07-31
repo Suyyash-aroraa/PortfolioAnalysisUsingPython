@@ -56,10 +56,10 @@ pip install numpy yfinance
 
 ```bash
 # 1. Download the script
-curl -O https://raw.githubusercontent.com/yourusername/portfolio-manager/main/portfolio_manager.py
+curl -O https://raw.githubusercontent.com/Suyyash-aroraa/PortfolioAnalysisUsingPython/main/portfolioAnalysis.py
 
 # 2. Run it!
-python portfolio_manager.py
+python portfolioAnalysis.py
 
 # 3. Start tracking your investments! 🎉
 ```
